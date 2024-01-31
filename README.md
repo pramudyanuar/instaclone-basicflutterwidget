@@ -39,6 +39,6 @@ This Flutter project is a UI clone of the Instagram app. It demonstrates the use
 
 - [Flutter Documentation](https://flutter.dev/docs)
 - [Instagram](https://www.instagram.com/)
-- [FIGMA Instagram UI Design by Ashley Gaunt-Seo].(https://www.figma.com/community/file/878318142103232907/instagram-ui-kit-1-0/)
+- [FIGMA Instagram UI Design by Ashley Gaunt-Seo](https://www.figma.com/community/file/878318142103232907/instagram-ui-kit-1-0/)
 
 Happy coding!
